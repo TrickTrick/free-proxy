@@ -1,0 +1,9 @@
+{
+  "name": "TrickTrick/freeProxy",
+  "version": "1.0.0",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6.31",
+    "electrolinux/phpquery": "^0.9.6"
+  }
+}
