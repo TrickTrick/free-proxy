@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "tricktrick\\free-proxy": ""
+      "tricktrick\\free-proxy\\": ""
     }
   }
 }
