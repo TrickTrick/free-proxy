@@ -1,6 +1,6 @@
 <?php
 
-namespace TrickTrick\freeProxy;
+namespace tricktrick\freeProxy;
 
 use phpQuery;
 
